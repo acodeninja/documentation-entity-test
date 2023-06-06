@@ -1,0 +1,4 @@
+site_name: Design Portal
+plugins:
+  - techdocs-core
+  - kroki

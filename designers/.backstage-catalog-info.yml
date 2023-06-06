@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: designers
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: team
+  children: []
