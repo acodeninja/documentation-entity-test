@@ -1,9 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: designers
+  name: design-portal
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: team
+  type: portal
+  owner: group:designers
   children: []
