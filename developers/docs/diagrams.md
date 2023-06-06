@@ -1,6 +1,6 @@
 # Diagrams
 
-```mermaid
+```kroki-mermaid
 graph LR
   A[Start] --> B{Error?};
   B -->|Yes| C[Hmm...];
