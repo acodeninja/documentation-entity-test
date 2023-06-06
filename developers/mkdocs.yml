@@ -1,6 +1,5 @@
 site_name: Developer Portal
 plugins:
   - techdocs-core
-  - material
 theme:
   name: material
